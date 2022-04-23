@@ -17,4 +17,6 @@ What doesn't work:
 
 Do not forget to **update SMBIOS** in config.plist and good luck with your usage, Bro!
 
+[**Download EFI**](https://github.com/AwSomeSiz/Atermiter_X79G_Hackintosh/releases)
+
 ![About System](https://user-images.githubusercontent.com/85404291/164888633-3c24ca9a-2078-4724-ba79-df72a38fc251.png)
