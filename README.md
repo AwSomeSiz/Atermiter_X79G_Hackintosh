@@ -16,4 +16,5 @@ What doesn't work:
 • Built-in Audio (will fix it some later, now I triyng to run Monterey installer)
 
 Do not forget to update SMBIOS in config.plist and good luck with your usage, Bro!
+
 ![About System](https://user-images.githubusercontent.com/85404291/164888633-3c24ca9a-2078-4724-ba79-df72a38fc251.png)
