@@ -12,11 +12,8 @@ Configuration:
 • Memory - 16GB DDR3-ECC 1600 MHz by Samsung (4x4)  
 • Storage devices - KingSpec SSD 512GB for MacOS and Netac NVMe SSD 1TB for Windows 11
 
-What doesn't work:  
-• Built-in Audio (will fix it some later, now I triyng to run Monterey installer)
-
 Do not forget to **update SMBIOS** in config.plist and good luck with your usage, Bro!
 
 [**Download EFI**](https://github.com/AwSomeSiz/Atermiter_X79G_Hackintosh/releases)
 
-![About System](https://user-images.githubusercontent.com/85404291/164888633-3c24ca9a-2078-4724-ba79-df72a38fc251.png)
+![About System](https://user-images.githubusercontent.com/85404291/164968047-cfe42dff-4acc-45f5-bf8b-b8302a1bf5c1.png)
