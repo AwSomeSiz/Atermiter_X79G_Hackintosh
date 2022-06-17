@@ -10,7 +10,7 @@ Configuration:
 • Memory - 16GB DDR3-ECC 1600 MHz by Samsung (4x4)  
 • Storage devices - KingSpec SSD 512GB for MacOS and Netac NVMe SSD 1TB for Windows 11
 
-Do not forget **disable "Above 4G Decoding in BIOS**  
+Do not forget **disable "Above 4G Decoding" in BIOS**  
 Do not forget to **update SMBIOS** in config.plist and good luck with your usage, Bro!
 
 [**Download EFI**](https://github.com/AwSomeSiz/Atermiter_X79G_Hackintosh/releases)
