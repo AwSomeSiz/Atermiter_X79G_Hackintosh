@@ -1,6 +1,4 @@
-# Atermiter X79G and Xeon E5-1650 v2 OpenCore EFI for MacOS Big Sur 
-I'm making a perfect EFI for my PC to run macOS Monterey, but so far I've only been able to run Big Sur.  
-But I will not give up and someday instead of "for Big Sur" in this repository it will be written "for Monterey" :)
+# Atermiter X79G and Xeon E5-1650 v2 OpenCore EFI for MacOS 11 - 13
 
 OpenCore version - 0.8.0
 
