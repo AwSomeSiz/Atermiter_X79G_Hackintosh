@@ -3,6 +3,7 @@
 OpenCore version - 0.8.0
 
 Configuration:  
+• Platform - Intel LGA 2011, X79 Chipset, Ivy Bridge EP  
 • Motherboard - Atermiter X79G v1.3  
 • BIOS - X79GA00E  
 • Processor - Intel® Xeon® E5-1650 v2  
